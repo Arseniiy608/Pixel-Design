@@ -7,7 +7,7 @@
             <a href="#contest">Конкурс</a>
             <a href="#plans">Плани розвитку</a>
             <title> Пиксельний Дизайн </title> 
-            <link rel="stylesheet" href="style.css">
+            <link rel="stylesheet" href="style.css"/>
         </header>
         <main>
             <h1>Pixel Design</h1>
